@@ -8,7 +8,7 @@ Welcome! Here, we present our study of single-cell transcriptomics analysis for 
 
 This repository includes three main folders:
 
-[code/1.subclustering.R][Subclustering]
+[Subclustering](https://github.com/shusakai/LYM-project/blob/main/code/1.subclustering.R)
 
 - The R source code for our analyses.
 
