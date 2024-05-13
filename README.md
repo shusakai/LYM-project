@@ -1,6 +1,6 @@
 # LYM-project
 
-Welcome! Here, we present our study of single-cell transcriptomics analysis for the lymphocyte-associated immune reactions after radiotherapy
+Welcome! Here, we present our study of single-cell transcriptomics analysis for the lymphocyte-associated immune reactions during/after radiotherapy
 
 
 
@@ -8,9 +8,9 @@ Welcome! Here, we present our study of single-cell transcriptomics analysis for 
 
 This repository includes three main folders:
 
-[Subclustering](https://github.com/shusakai/LYM-project/blob/main/code/1.subclustering.R)
+[Code](https://github.com/shusakai/LYM-project/tree/main/code)
 
-- The R source code for our analyses.
+- The shell, R, and Python source code for our analyses.
 
 
 
