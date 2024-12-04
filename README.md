@@ -10,7 +10,7 @@ This repository includes three main folders:
 
 [Code](https://github.com/shusakai/LYM-project/tree/main/code)
 
-- The shell, R, and Python source code for our analyses.
+- The source code for scRNA-seq and Xenium analyses.
 
 
 
