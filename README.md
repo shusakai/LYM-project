@@ -12,6 +12,10 @@ This repository includes three main folders:
 
 - The source code for scRNA-seq and Xenium analyses.
 
+[TreatmentScore_Codes](https://github.com/shusakai/LYM-project/tree/main/TreatmentScore_Codes)
+
+- The source code for mathematical modeling.
+
 
 
 ## Download the data
